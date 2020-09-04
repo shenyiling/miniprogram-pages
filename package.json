@@ -33,6 +33,6 @@
         "ncp": "^2.0.0",
         "user-home": "^2.0.0",
         "word-table": "^1.0.3",
-        "yargs-parser": "^16.1.0"
+        "yargs-parser": "^18.1.2"
     }
 }
